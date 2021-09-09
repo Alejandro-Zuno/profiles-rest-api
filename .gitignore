@@ -136,3 +136,4 @@ dmypy.json
 eb-package.zip
 static/
 .DS_Store
+workspace.code*
